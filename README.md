@@ -35,7 +35,7 @@ Is a versioning tool enough for effective team collaboration?
 
 well, let's create an conflict maybe?
 // answer
-
+answer 4
 ### Git Mental Models
 
 #### Branches
