@@ -30,8 +30,10 @@ this is my first answer.
 this is the second answer.
 // answer 3
 so this is the third round of answers.
+
 Is a versioning tool enough for effective team collaboration?
 
+well, let's create an conflict maybe?
 // answer
 
 ### Git Mental Models
