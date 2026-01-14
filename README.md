@@ -1,7 +1,7 @@
 # Data4Good Volunteering: Git Advanced
 
 ## Exercise Merge Conflicts
-For this exercise, the **team members take turns**. Each team member should try to run both scenarios. **Decide as a team** how each conflict should be resolved and if the workflow (`rebase` vs. `merge` was a good option to choose).
+For this exercise, the **team members take turns**. Each team member should try to run both scenarios. **Decide as a team** how each conflict should be resolved and if the workflow (`rebase` vs. `merge`) was a good option to choose.
 
 ---
 
