@@ -27,7 +27,7 @@ How does a versioning tool, like git, help when working on a codebase with many 
 // answer 1
 this is my first answer.
 // answer 2
-
+this is the second answer.
 // answer 3
 
 Is a versioning tool enough for effective team collaboration?
